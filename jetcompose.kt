@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
         }
     }updated
 }
-
+//ranjith edited12
 @Preview(showSystemUi = true)
 @Composable
 fun DefaultPreview() {
