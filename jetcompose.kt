@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
-    }
+    }updated
 }
 
 @Preview(showSystemUi = true)
